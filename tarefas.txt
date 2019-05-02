@@ -1,0 +1,6 @@
+-verificar aviso
+    - WARNING in entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+        Entrypoints:
+        main (394 KiB)
+
+- usar sass no projeto
